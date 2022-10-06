@@ -1,0 +1,1 @@
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file freeglut-3.2.1/progs/test-shapes-gles1/android_toolchain.cmake","time":"2022-10-06T02:01:54Z"}
